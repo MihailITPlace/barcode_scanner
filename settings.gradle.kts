@@ -1,0 +1,3 @@
+
+rootProject.name = "barcode_scanner"
+
